@@ -70,7 +70,7 @@
 <body>
 <header>
   <div>
-    <h1>Growth PM — outreach ended, no engagement</h1>
+    <h1>Growth PM</h1>
     <div class="meta">[202606] Senior PM, SMB Growth &nbsp;·&nbsp; 24 Jun 2026 &nbsp;·&nbsp; 22 candidates (20 no response, 2 bounced)</div>
   </div>
   <div class="actions">
